@@ -70,6 +70,6 @@ We welcome contributions to this project! If you have an idea for a feature or h
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact the repository owner at uddinazeem56098@gmail.com.
+For any questions or suggestions, feel free to open an issue or contact the repository owner at mtalhak9753@gmail.com.
 
 Happy coding!
