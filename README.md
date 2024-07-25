@@ -38,6 +38,7 @@ Before you can run this project, you need to have the following software install
     cmake ..
     make
     ```
+  
 
 4. **Run the executable**:
     ```sh
