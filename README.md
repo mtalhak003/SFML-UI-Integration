@@ -17,6 +17,7 @@ Welcome to the **Elevate Pong with Power-Ups** project! This repository contains
 Before you can run this project, you need to have the following software installed:
 
 - **C++ Compiler**: Make sure you have a C++ compiler installed (e.g., g++, clang++).
+  
 - **SFML Library**: Download and install the SFML library from [SFML's official website](https://www.sfml-dev.org/download.php).
 
 ### Installation
